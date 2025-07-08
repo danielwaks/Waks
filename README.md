@@ -1,9 +1,4 @@
 wakawa barka Daniel-BHU/21/04/09/0001
-omotade emma leke peace-BHU/21/04/09/0058
-david aigbona- BHU/21/04/09/0059
-isaac ishamali patirck-BHU/21/04/09/0095
-agbo edwin joseph- BHU/21/04/10/0018
-
 Chidebe Asher Oluebubechukwu - BHU/21/04/05/0093
 We developed an interactive X and O (Tic-Tac-Toe) game using Java.
 The Main Page where the game is being commenced 
